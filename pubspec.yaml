@@ -13,10 +13,10 @@ dependencies:
   flutter:
     sdk: flutter
   fpdart: ^1.1.1
-  rxdart: ^0.28.0
+  rxdart: any
   failures:
     git: https://github.com/mahmood1996/failures.git
-  maybe_just_nothing: ^0.5.3
+  maybe_just_nothing: any
 
 dev_dependencies:
   flutter_test:
