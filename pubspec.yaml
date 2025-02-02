@@ -15,7 +15,7 @@ dependencies:
   fpdart: ^1.1.1
   rxdart: any
   failures:
-    git: https://github.com/mahmood1996/failures.git
+    git: https://github.com/Abd-ElRazek-Ali-Awad-Hassan/failures.git
   maybe_just_nothing: any
 
 dev_dependencies:
